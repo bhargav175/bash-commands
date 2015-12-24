@@ -3,7 +3,7 @@ Useful bash commands
 
 alias - Create aliases for commonly used commands
 
-awk - 
+awk - Process files http://www.folkstalk.com/2011/12/good-examples-of-awk-command-in-unix.html
 
 `cd` - Change directory
 
