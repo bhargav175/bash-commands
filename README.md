@@ -1,9 +1,9 @@
 # bash-commands
 Useful bash commands
 
-alias
+alias - Create aliases for commonly used commands
 
-awk 
+awk - 
 
 `cd` - Change directory
 
