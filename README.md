@@ -5,7 +5,13 @@ alias - Create aliases for commonly used commands
 
 awk - Process files http://www.folkstalk.com/2011/12/good-examples-of-awk-command-in-unix.html
 
-`cd` - Change directory
+cd - Change directory
+
+cat - Read files 
+
+    cat index.html 
+    
+    cat index.html > new_index.html
 
 `chmod` - Change permissions of a file/dir
 
