@@ -9,9 +9,9 @@ cd - Change directory
 
 cat - Read files 
 
-    cat index.html 
+    cat index.html //read a file
     
-    cat index.html > new_index.html
+    cat index.html > new_index.html //copy a file's contents
 
 `chmod` - Change permissions of a file/dir
 
