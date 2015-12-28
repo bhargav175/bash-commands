@@ -17,7 +17,9 @@ cat - Read files
 
 `chown` - Change ownership of a file/dir
 
-grep
+find 
+
+    find . -name index.html //finds all files named index.html in the current folder. Replace . with folder name if you want to search in a different folder
 
 `ls` - List all files and directories in a directory
 
